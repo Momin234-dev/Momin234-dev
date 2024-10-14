@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Momin234-dev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on friends 
 - 📫 How to reach me : 
 - 😄 Pronounsfootballer
